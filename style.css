@@ -304,7 +304,7 @@ div#bs-example-navbar-collapse-1 {
 .features-right-right{
     float: right;
     width: 70%;
-    margin-right: 6em;
+    margin-right: 0em;
 }
 .features-right-right p{
     float:left;
@@ -455,15 +455,10 @@ background: #bcabca;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
 }
-
-i.fa.fa-instaam{
-  
+  i.fa.fa-twitter,i.fa.fa-facebook,i.fa.fa-instagram,i.fa.fa-Youtube,i.fa.fa-WhatsApp{
+    color: #FFF;
+    font-size: 0em;  
 }
-,i.fa.fa-Ytube,i.fa.fa-WhsApp,i.fa.fa-drible{
-    
-   }
-
-   
 .footer-icons ul li span{
     display: block;
     margin: 1em 0 0 0;
